@@ -1,0 +1,7 @@
+# MCP Demo Requirements
+# No external dependencies required for basic functionality
+# Python 3.7+ is required
+
+# Optional: For development and testing
+pytest>=7.0.0
+pytest-cov>=3.0.0
